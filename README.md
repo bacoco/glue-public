@@ -7,6 +7,4 @@
   <br><br/>
 </div>
 
-**Features and download links can be found on the website:**
-
-→ [**gluedata.io**](https://gluedata.io)
+For more information see the website: [**gluedata.io**](https://gluedata.io)
