@@ -6,3 +6,5 @@
 </div>
 
 For more information see the website: [**gluedata.io**](https://gluedata.io)
+
+Built using electron.
